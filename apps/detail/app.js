@@ -1,6 +1,6 @@
 //Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 //SPDX-License-Identifier: MIT-0
-
+// commenting for file for docker image generation
 var express = require("express");
 var app = express();
 var AWSXRay = require('aws-xray-sdk');
